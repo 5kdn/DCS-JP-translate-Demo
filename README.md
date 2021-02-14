@@ -7,6 +7,7 @@ DCS 日本語化作業スレ及びuploaderをgithubに移植したらどんな�
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 - [利用する方へ](#利用する方へ)
 - [翻訳される方へ](#翻訳される方へ)
+- [翻訳状況](#翻訳状況)
 
 ---
 
@@ -22,9 +23,19 @@ DCS 日本語化作業スレ及びuploaderをgithubに移植したらどんな�
 3. 各ミッションの日本語化
    3.1. 翻訳したいミッションファイル(**.miz)をzipアーカイバーで開き、`/l10n/`に翻訳した`JP`フォルダを挿入する
 
-
 ---
 
 ## 翻訳される方へ
 
 このへんにGithubの使い方とかアップロードのしかたとか書いておいたほうが良いかも
+
+## 翻訳状況
+
+- DCS
+  - [A-10C](https://github.com/5kdn/DCS-JP-translate-Demo/blob/main/翻訳状況/A-10C.md)
+  - [SuperCarrier](https://github.com/5kdn/DCS-JP-translate-Demo/blob/main/翻訳状況/Supercarrier.md)
+- [Chuck's guides](https://github.com/5kdn/DCS-JP-translate-Demo/blob/main/翻訳状況/Chucks_guides.md)
+  - [A-10C](https://github.com/5kdn/DCS-JP-translate-Demo/raw/main/Chucks%20guides/DCS%20A-10C%20Warthog%20Guide%20JP.pdf)
+  - [F/A-18C](https://github.com/5kdn/DCS-JP-translate-Demo/raw/main/Chucks%20guides/DCS%20FA-18C%20Hornet%20Guide%20JP.pdf)
+- [VoiceAttack](https://github.com/5kdn/DCS-JP-translate-Demo/blob/main/%E7%BF%BB%E8%A8%B3%E7%8A%B6%E6%B3%81/VoiceAttack.md)
+  - [Help](https://github.com/5kdn/DCS-JP-translate-Demo/raw/main/VoiceAttack/VoiceAttackHelp%20JP.pdf)
