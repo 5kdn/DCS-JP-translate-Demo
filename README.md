@@ -7,7 +7,7 @@ DCS 日本語化作業スレ及びuploaderをgithubに移植したらどんな�
 <!-- @import "[TOC]" {cmd="toc" depthFrom=2 depthTo=6 orderedList=false} -->
 - [利用する方へ](#利用する方へ)
 - [翻訳される方へ](#翻訳される方へ)
-- [翻訳状況](#翻訳状況)
+- [ファイルのダウンロードと翻訳状況](#ファイルのダウンロードと翻訳状況)
 
 ---
 
@@ -29,7 +29,9 @@ DCS 日本語化作業スレ及びuploaderをgithubに移植したらどんな�
 
 このへんにGithubの使い方とかアップロードのしかたとか書いておいたほうが良いかも
 
-## 翻訳状況
+## ファイルのダウンロードと翻訳状況
+
+翻訳ファイルは下記のリンク先からDLすることができます。
 
 - DCS
   - [A-10C](https://github.com/5kdn/DCS-JP-translate-Demo/blob/main/翻訳状況/A-10C.md)
