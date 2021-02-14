@@ -1,5 +1,6 @@
 dictionary =
 {
+    ["dummy"] = "間違えて挿入した行",
     ["DictKey_UnitName_72"] = "АТЗ-10",
     ["DictKey_GroupName_124"] = "Стат. объект #012",
     ["DictKey_UnitName_67"] = "ДОТ",
